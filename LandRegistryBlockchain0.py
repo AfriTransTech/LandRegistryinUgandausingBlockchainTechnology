@@ -605,7 +605,7 @@ while waiting_for_input:
     #--------------------------------------------
     print('11:Register your land')  #register property on your name and save it into blockchain (this is a transaction)
     print('12:Transfer your land title')
-    print('13:unhandled transactions')
+    print('13:view transactions')
     print('3:Output the blockchain blocks')
     print('4:users')
     print('5:Check transaction validity')
